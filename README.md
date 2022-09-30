@@ -9,4 +9,4 @@ Você pode passar o nome da cidade:
 
 `porto alegre`
 
-Clicando em buscar vai mostrar o clima em tempo real da cidade.
+Clicando no icone de busca, vai mostrar o clima em tempo real da cidade.
